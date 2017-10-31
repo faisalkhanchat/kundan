@@ -1,0 +1,177 @@
+.responsive-look img{left:0px;}
+#numbers .fa{width:80px;}
+body{direction:rtl;}
+.responsive-look::before,
+#features .features-section .text-center img{
+	-moz-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    -webkit-transform: scale(-1, 1);
+	 transform: scale(-1, 1);
+}
+.responsive-look img{
+	transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+	 transform: rotate(45deg);
+}
+#header .nav li{margin: 20px 12px;}
+.list-star{padding-right:15px;}
+.list-star li:before{right:15px;}
+.list-star li{padding-right:5px;}
+#header .navbar-brand{padding:0px 0 5px 0px;margin-left:0px;margin-right:0px;}
+.nav > li > a:hover::before,.nav > li.active::before{right:0px;}
+#header .navbar-toggle{margin-left:0px;}
+.right-contact{text-align:left;}
+.right-contact li:first-child{margin-left:15px;}
+.book-now-home .zipcode{padding-right:35px;}
+.location-code::before{right:5px;}
+.book-now-home .change-text{padding-right:20px;}
+.book-now-home .category-dropdown{border-left:1px solid #aaaaaa;}
+section .panel-heading:before{right:50%; transform: translateX(50%);}
+.step-one::before{left:-100px;right:auto;
+	-moz-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    -webkit-transform: scale(-1, 1);
+	 transform: scale(-1, 1);
+}
+.step-two::before{left:-100px;right:auto;
+	-moz-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    -webkit-transform: scale(-1, 1);
+	 transform: scale(-1, 1);
+}
+.form-wrapper{
+	float:right;
+}
+.services-list li{margin-left:20px;padding:30px 0 0 0;}
+.services-list li:nth-child(5),.services-list li:nth-child(10){margin-left:0px;}
+#trust-security .icon_box_one .icons,#features .icon_box_one .icons{float:right;}
+#trust-security .icon_box_one .box_content{margin-right:75px;}
+#features{padding:60px 0 0px 0;}
+.lan-name{margin-left:0px;margin-right:8px;}
+.features-section::before{right:0;}
+#features .icon_box_one i{float:right;}
+#features .icon_box_one .box_content{margin-right:45px;margin-left:0px;}
+#downlod_app .btn-outline .fa{margin-left:5px;}
+.responsive-look::before{left:-15px;right:auto;}
+#trusted .trusted_logo{margin-right:0px;padding-right:0px;}
+#trusted .trusted_logo li:last-child{padding-left:0px;}
+#trusted .trusted_logo li:first-child{padding-right:0px;}
+#trusted .panel-heading::before{right:25px !important;}
+.free_consultation::before{right:0;}
+footer ul{margin-left:20px;}
+footer .fa{padding-left:10px;}
+footer .fa.fa-caret-right{padding-left:8px;transform:rotate(180deg);padding-right:0;}
+footer .fa.fa-caret-right{padding-left:8px;}
+.bottom-footer .fa{margin-right:5px;}
+.footer-scoails.pull-right{margin-left:0;}
+footer .newsletter .input-group input{padding:5px 0 15px 10px;}
+.top_awro{left:20px;right:auto;}
+.top_awro .fa{padding-left:0;}
+.home_two_banner::before{right:0;}
+.home_two .book-now-home .form-group{border-right:1px solid #aaa;}
+.home_two .book-now-home .category-dropdown{border-left:medium none;}
+.home_two .book-now-home .form-group:first-child{border-right:none;}
+.home_two .location-code::before{right:10px;}
+.home_two #services::before{right:0;}
+.home_two .counter_number_right{padding-right:20px;text-align:right;}
+.cmsmasters_quote{text-align:right;}
+.cmsmasters_quotes_list .cmsmasters_quote:first-child{border-left:1px solid #aaa;}
+.cmsmasters_quotes_grid .cmsmasters_quote_image{padding:0 0 0 15px;}
+.cmsmasters_quotes_grid .cmsmasters_quotes_list::after{right:0;left:0;}
+.home_two .view_all .fa.fa-angle-right{padding-right:5px;}
+.home_two footer .fa{margin-right:5px;}
+.service_banner_layer::before{right:0;}
+.quick_contact{margin-right:50px;}
+.quick_contact .col-sm-offset-2{margin-right:0;}
+.quick_contact .form-horizontal .form-group{margin-right:0;margin-left:0;}
+#What_offer .icon_box_one .box_content{margin-right:110px;}
+#What_offer .icon_box_one .icons{float:right;}
+#service_provider .counter_box{border-right:1px solid #333333;text-align:right;border-left:0px;}
+#service_provider .counter_box:first-child{border-right:none;}
+#explore_services .services-list li{margin-left:-5px;}
+.booking_form .col-md-1, .booking_form .col-md-10, .booking_form .col-md-11, .booking_form .col-md-12, .booking_form .col-md-2, .booking_form .col-md-3, .booking_form .col-md-4, .booking_form .col-md-5, .booking_form .col-md-6, .booking_form .col-md-7, .booking_form .col-md-8, .booking_form .col-md-9, .booking_form .col-sm-1, .booking_form .col-sm-10, .booking_form .col-sm-11, .booking_form .col-sm-12, .booking_form .col-sm-2, .booking_form .col-sm-3, .booking_form .col-sm-4, .booking_form .col-sm-5, .booking_form .col-sm-6, .booking_form .col-sm-7, .booking_form .col-sm-8, .booking_form .col-sm-9, .booking_form .col-xs-1, .booking_form .col-xs-10, .booking_form .col-xs-11, .booking_form .col-xs-12, .booking_form .col-xs-2, .booking_form .col-xs-3, .booking_form .col-xs-4, .booking_form .col-xs-5, .booking_form .col-xs-6, .booking_form .col-xs-7, .booking_form .col-xs-8, .booking_form .col-xs-9{padding-right:0px;padding-left:15px;}
+.booking_form .select_options{text-align:right;}
+.booking_form .padding-r{padding-left:0px;}
+.extras_services li{margin-left:39px;}
+.extras_services li:nth-child(4), .extras_services li:nth-child(8){margin-left:0px;}
+.booking_form .help-block span{padding-right:10px;}
+.how_often li{margin-left:19px;}
+.how_often li:last-child{margin-left:0px;}
+.contact_information_right{margin-right:40px;}
+.booking_summary ul{text-align:right;}
+.booking_summary .fa{padding-left:25px;}
+.subtotal{text-align:right;}
+.subtotal .heading{text-align:right;}
+.subtotal .price{text-align:left;}
+.team-area h3{border-left:1px solid;margin:0 0 0 5px;padding:0 0 0 5px;}
+.team-area .social-links .fa{margin-right:0;}
+#Contact_form .about_info .fa{margin-left:5px;}
+.single-blog-post .overlay-style-two{margin-left:15px;}
+.single-blog-post .text-holder .meta-info .post-info li{float:right;padding-left:15px;}
+.single-blog-post .text-holder .meta-info .post-info li i{padding-left:10px;}
+.single-sidebar .categories li{padding-right:25px;}
+.single-sidebar .categories li::before{right:15px;}
+.single-sidebar .latest-post li{padding-right:70px;}
+.single-sidebar .latest-post li .img-holder{right:0;}
+.single-sidebar .latest-post li .title-holder{padding-right:20px;}
+.blog_post .blog_p{border-right:3px solid #45ade7;padding:5px 25px 5px 0;}
+.blog_post .Share .fa{margin-right:5px;}
+.blog_post .blog_post_barr .pager li:first-child{border-left:1px solid;}
+.blog_post .media-body{padding-right:18px;}
+.blog_post .panel-heading::before{right:25px;}
+@media screen and (max-width:767px){
+    .top_awro{left:30px;right:auto;}
+    .right-contact li:first-child{margin-left:12px;}
+    .book-now-home .category-dropdown{border-left:medium none;}
+    .services-list li{margin-right:5px;margin-left:5px;}
+    .services-list li:nth-child(5), .services-list li:nth-child(10){margin-left:5px;}
+    .carousel-control{right:-17px;}
+    .home_two .book-now-home .form-group{border-right:0 none;}
+    .home_two .counter_number_right{padding-right:0;}
+    .cmsmasters_quotes_list .cmsmasters_quote:first-child{border-left:0 none;}
+    .quick_contact{margin-right:0;}
+    #service_provider .counter_box{border-right:medium none;}
+    .booking_form .padding-r{padding-left:15px;}
+    .extras_services li{margin-left:13px;}
+    .how_often li{margin-left:13px;}
+    .contact_information_right{margin-right:0;}
+    .extras_services li:nth-child(4), .extras_services li:nth-child(8){margin-left:13px;}
+    .single-blog-post .text-holder .meta-info .post-info li{padding-left:7px;}
+    .blog_post .media-left, .blog_post .media .pull-left{padding:0 0 20px 0;}
+    .panel-heading::before{right:50% !important;}
+    .blog_post .media-body{padding-right:0;}
+    .blog_post .Share .fa{margin-right:1px;}
+    .blog_post_barr .pull-right{padding-left:60px;}
+}
+@media (min-width:768px)and (max-width:991px){
+    .top_awro{left:135px;right:auto;}
+    .right-contact li:first-child{margin-left:12px;}
+    .book-now-home .category-dropdown{border-left:medium none;}
+    .services-list li:nth-child(5), .services-list li:nth-child(10){margin-left:20px;}
+    .carousel-control{right:-17px;}
+    #trust-security .icon_box_one .box_content{margin-right:60px;}
+    #header .navbar-brand{margin-left:0px;}
+    .home_two .counter_box.text-center{padding-right:0;}
+    .home_two .counter_number_right{padding-right:0;}
+    .quick_contact{margin-right:0;}
+    .contact_information_right{margin-right:0;}
+    .extras_services li{margin-left:4px;}
+    .extras_services li:nth-child(4), .extras_services li:nth-child(8){margin-left:4px;}
+    .how_often li{margin-left:5px;}
+    .single-blog-post .text-holder .meta-info .post-info li{padding-left:5px;}
+}
+@media (min-width:992px)and (max-width:1199px){
+    .top_awro{left:20px;right:auto;}
+    .responsive-look::before{left:-103px;}
+    #header .navbar-brand{margin-left:0px;}
+    .services-list li:nth-child(5), .services-list li:nth-child(10){margin-left:20px;}
+    .home_two .counter_number_right{padding-right:0;}
+    .home_two .counter_box.text-center{padding-right:0;}
+    .quick_contact{margin-right:0;}
+    .contact_information_right{margin-right:0;}
+    .extras_services li{margin-left:4px;}
+    .extras_services li:nth-child(4), .extras_services li:nth-child(8){margin-left:4px;}
+    .how_often li{margin-left:5px;}
+}
